@@ -1,10 +1,17 @@
+Ecig Signup
+========================
+
+Jason Bush
+jasonbushis@gmail.com
+________________________
+
 h1. Ecig Signup
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Signup application for prelaunch of website
 
 h2. More Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+This app was created by following the tutorial from RailsApp project
 
 h2. Required Gems
 
@@ -16,28 +23,21 @@ h2. Dependencies
 
 To use this application, you will need:
 
-* The Ruby language (version 1.8.7 or 1.9.2)
+* The Ruby language (version 1.9.3)
 * Rails (version 3.0.4 or newer)
 
 h2. Installing the Application
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
 
 h2. Getting Started
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 h2. Documentation and Support
 
 This is the only documentation.
 
 h4. Issues
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-h2. Similar Projects
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 h2. Contributing
 
@@ -52,8 +52,8 @@ If you add functionality to this application, create an alternative implementati
 
 h2. Credits
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+RailsApp project
+tutorial-rails-prelaunch-signup
 
 h2. License
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
