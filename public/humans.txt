@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+ Founder: Jason R. Bush
+  Site:  www.i-hookah.com
+  Twitter: @jasonrbush
+  Location: Tulsa, OK 74135 USA
 
 /* THANKS */
   Daniel Kehoe (@rails_apps) for the RailsApps project
